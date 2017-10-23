@@ -14,6 +14,7 @@ http://www.sunpop.cn/odoo10_fast_x64_download/
 ##操作说明
 执行 r.bat后，访问
 http://localhost
+http://localhost:8010
 如多版本并存，请自行调整nginx的映射端口
 
 ##文件说明
