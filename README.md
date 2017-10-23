@@ -33,9 +33,7 @@ http://www.lfd.uci.edu/~gohlke/pythonlibs/
 ###安装依赖
 pip install -r .\source\rwin.txt  -i https://mirrors.aliyun.com/pypi/simple
 ###Postgresql,进入bin目录执行环境初始化
-cd runtime\pgsql\bin
-initdb.exe -D ..\data -E UTF8
-pg_ctl -D ..\data -l logfile start
+cd runtime\pgsql\bin & initdb.exe -D ..\data -E UTF8 & pg_ctl -D ..\data -l logfile start
 ###创建用户，密码，都是odoo
 createuser --createdb --no-createrole --no-superuser --pwprompt odoo
 ###安装npm相关

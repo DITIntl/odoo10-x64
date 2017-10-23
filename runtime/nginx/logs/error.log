@@ -23,3 +23,7 @@
 2017/10/23 13:18:18 [emerg] 12744#9488: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
 2017/10/23 13:19:45 [emerg] 8716#12944: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
 2017/10/23 13:20:24 [emerg] 11236#13764: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/10/23 13:26:24 [emerg] 12764#12388: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/10/23 13:28:48 [emerg] 11424#14580: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/10/23 14:49:37 [emerg] 4604#5684: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
+2017/10/23 14:50:49 [emerg] 6760#11680: CreateDirectory() "D:\odoo10-x64\runtime\nginx/temp/client_body_temp" failed (3: The system cannot find the path specified)
